@@ -1,42 +1,37 @@
-🚀 Nexora Technologies
+# TechNova Solutions
 
-Building innovative solutions that simplify technology and empower people.
+**TechNova Solutions** is a school project simulating a small tech company building web and mobile applications.  
+This repository contains the full project code and documentation.
 
-📌 About Us
+---
 
-Nexora Technologies is a technology-driven company focused on delivering high-quality software solutions.
-We specialize in:
+## 🚀 About
 
-🌐 Web Development
+This project demonstrates practical coding skills, project organization, and collaborative workflows.  
+It includes:
 
-📱 Mobile Applications
+- Frontend and backend code
+- Database integration
+- Environment-based configuration
+- Clear documentation and wiki pages
 
-☁️ Cloud Solutions
+---
 
-🔐 Secure & Scalable Systems
+## 🛠️ Tech Stack
 
-Our mission is to create modern, efficient, and reliable digital products.
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB / MySQL  
+- **Version Control:** Git & GitHub  
+- **Deployment:** Local environment (Node.js)
 
-🛠️ Tech Stack
+---
 
-Our projects typically use:
-
-Frontend: HTML, CSS, JavaScript, React
-
-Backend: Node.js, Express
-
-Database: MongoDB / MySQL
-
-Version Control: Git & GitHub
-
-Deployment: Docker, AWS
-
-📂 Project Structure
-project-root/
+## 📂 Project Structure
 │
-├── src/            # Source code
-├── public/         # Static files
-├── tests/          # Unit tests
-├── docs/           # Documentation
-├── .env.example    # Environment variables template
-└── README.md       # Project documentation
+├── src/ # Source code
+├── public/ # Static files
+├── tests/ # Unit tests
+├── docs/ # Additional documentation
+├── .env.example # Environment variables template
+└── README.md # Project overview
